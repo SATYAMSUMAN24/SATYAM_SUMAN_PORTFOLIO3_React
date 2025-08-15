@@ -153,11 +153,11 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ## 📞 Contact
 
 **Satyam Suman**
-- Email: satyamsuman2468@gmail.com
-- Alternative Email: satyamsuman618@gmail.com
-- LinkedIn: [linkedin.com/in/satyamsuman](https://linkedin.com/in/satyamsuman)
+- Email: satyamsuman2003@gmail.com
+- Alternative Email: satyamsuman2003@gmail.com
+- LinkedIn: [linkedin.com/in/satyamsuman2003](https://linkedin.com/in/satyamsuman2003)
 - GitHub: [github.com/SATYAMSUMAN24](https://github.com/SATYAMSUMAN24)
-- Phone: +91-9692733390
+- P
 
 ## 🙏 Acknowledgments
 
