@@ -1,4 +1,4 @@
-# Portfolio Website - Satyam Suman(https://satyamsumanreact12.vercel.app/)
+# Portfolio Website - Satyam Suman
 
 A modern, responsive portfolio website built with React.js and Tailwind CSS, showcasing my journey as a BTech CSE student and web developer.
 
